@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Almero (@puttyq)
+Hi, I’m Almero (@puttyq)
 
 I build and think about systems — identity, security, governance, and the messy reality of how businesses actually run.
 
