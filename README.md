@@ -22,3 +22,5 @@ I build and think about systems — identity, security, governance, and the mess
 
 📫 Reach me:
 - https://www.puttyq.com
+- https://www.integralis.co.za
+- https://www.govern-is.com
